@@ -26,6 +26,9 @@ const Home = () => {
         deserunt ipsa vel hic mollitia, incidunt impedit voluptates doloremque
         veniam officiis provident animi libero nemo consectetur!
       </p>
+      <br />
+      <h1>ynty.io</h1>
+      <br />
     </div>
   );
 };
