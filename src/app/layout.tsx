@@ -30,6 +30,5 @@ export default function RootLayout({
       </body>
     </html>
     // <section></section>
-    // <header></header>
   );
 }
