@@ -38,6 +38,7 @@ const Home = () => {
       <h1>ynty.io</h1>
       <h1>ynty.io</h1>
       <h1>ynty.io</h1>
+      <h1>ynty.io</h1>
       <br />
     </div>
   );
